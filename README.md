@@ -42,9 +42,9 @@ This sheet gives a high-level overview of the project, scope, tools used, and re
 <img width="1106" height="344" alt="image" src="https://github.com/user-attachments/assets/ba443700-5578-4ab7-94e9-bdc6efee1723" />
 
 * By completing this project, I gained a clear understanding of how basic GRC and compliance work is performed in a real organization.
-* 
+  
 * I learned how to identify and document company assets, review ISO 27001 security controls, assess their current status, and record gaps with improvement actions. I also practiced organizing compliance information in a clear and structured way using Excel.
-* 
+  
 *This project helped me understand how companies check their security readiness, track compliance, and prepare for audits at a beginner level.
 
 
