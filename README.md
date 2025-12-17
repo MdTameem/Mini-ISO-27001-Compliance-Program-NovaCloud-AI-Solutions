@@ -5,7 +5,6 @@ Beginner-friendly ISO 27001 GRC project showing how assets are identified, secur
 This project shows how a company checks its security readiness and documents gaps using ISO 27001 standards.
 
 I acted as a Junior Compliance Analyst for a small fictional company called "NovaCloud AI Solutions". My task was to list company assets, check security rules (ISO 27001 controls), identify what is already working, and note what needs improvement.
-All work is documented in Excel so that anyone – HR, manager, or even a beginner – can easily understand what was done and why.
 
 What I Did in This Project
 • Listed important company assets like servers, laptops, and SaaS tools  
@@ -45,7 +44,7 @@ This sheet gives a high-level overview of the project, scope, tools used, and re
   
 * I learned how to identify and document company assets, review ISO 27001 security controls, assess their current status, and record gaps with improvement actions. I also practiced organizing compliance information in a clear and structured way using Excel.
   
-*This project helped me understand how companies check their security readiness, track compliance, and prepare for audits at a beginner level.
+* This project helped me understand how companies check their security readiness, track compliance, and prepare for audits at a beginner level.
 
 
 
