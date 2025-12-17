@@ -20,18 +20,33 @@ How to Read This Project
 *Each sheet shows one part of real compliance work done by GRC teams.
 
 1 - Asset Inventory Sheet
+
 This sheet lists everything important the company owns and needs to protect, such as servers, laptops, and software tools.
+
 <img width="813" height="145" alt="image" src="https://github.com/user-attachments/assets/5ab2f950-6e1a-43dc-97ee-b88d32ae3df8" />
+
 I identified company assets and classified them based on importance and ownership.
 
 2 - Control Register
+
 This sheet checks whether security rules (controls) are followed in the company.
+
 <img width="1195" height="399" alt="image" src="https://github.com/user-attachments/assets/f8d3a188-46e6-4d30-a926-40996edd339b" />
+
 I reviewed ISO 27001 controls, checked current status, assigned owners, and identified improvement actions.
 
 3 - Compliance summary
+
 This sheet gives a high-level overview of the project, scope, tools used, and results.
+
 <img width="1106" height="344" alt="image" src="https://github.com/user-attachments/assets/ba443700-5578-4ab7-94e9-bdc6efee1723" />
+
+* By completing this project, I gained a clear understanding of how basic GRC and compliance work is performed in a real organization.
+* 
+* I learned how to identify and document company assets, review ISO 27001 security controls, assess their current status, and record gaps with improvement actions. I also practiced organizing compliance information in a clear and structured way using Excel.
+* 
+*This project helped me understand how companies check their security readiness, track compliance, and prepare for audits at a beginner level.
+
 
 
 
